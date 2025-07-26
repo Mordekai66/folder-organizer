@@ -1,6 +1,6 @@
 # Folder Organizer
 
-**A modern, stylish desktop app** built with Tkinter that auto-organizes your files into categorized folders — all using a clean functional approach, **no OOP involved**. Simple, smart, and beautiful.
+**Folder Organizer** is a smart desktop tool that automatically sorts your files into organized folders, helping you stay clutter-free with zero effort.
 
 ---
 
