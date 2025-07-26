@@ -109,15 +109,6 @@ The app is cleanly split into **5 logical modules**:
 
 ---
 
-## Safety First
-
-- **Duplicate Handling** – smart renaming to avoid overwrites  
-- **Error Recovery** – handles access or move errors safely  
-- **File Safety** – validates file accessibility before actions  
-- **Validation** – every input and action is checked
-
----
-
 ## Example Output Structure
 
 After organizing a folder, here's how it looks:
