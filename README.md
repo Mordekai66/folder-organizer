@@ -1,5 +1,10 @@
 # Folder Organizer
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white)
+![File Management](https://img.shields.io/badge/File-Management-FF6B35?logo=files&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-Script-00C853?logo=robot&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-Compatible-0078D6?logo=windows&logoColor=white)
+
 **Folder Organizer** is a smart desktop tool that automatically sorts your files into organized folders, helping you stay clutter-free with zero effort.
 
 ---
@@ -175,3 +180,4 @@ This project is licensed under the **MIT License** – use it, remix it, and mak
 ---
 
 > **Happy Organizing! Your messy folders won’t know what hit them!**
+
